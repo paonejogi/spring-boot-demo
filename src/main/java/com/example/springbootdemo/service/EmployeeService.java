@@ -12,5 +12,4 @@ public interface EmployeeService {
 
     String deleteEmployeeById(String id);
 
-    Employee save(Employee employee);
 }
